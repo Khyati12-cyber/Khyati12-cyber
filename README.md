@@ -39,7 +39,7 @@
                               
 | [frontend websites] |    Front-end of 365 Entertainment similar to www.hotstar.com , Front-end of Blogging similar to www.medium.com ,Designing template using CSS3 animations ,Front-end of Voter Registration similar to National Voter Service Portal Form 6 |
                             
-| [Personal Portfolio](https://avinash201199.github.io/Portfolio/) | This is my personal personal-portfolio website. Have a look [https://avinash201199.github.io/Portfolio/](https://avinash201199.github.io/Portfolio/) |
+| [Personal Portfolio](https://khyati12-cyber.github.io/portfolio/) | This is my personal personal-portfolio website. Have a look [https://khyati12-cyber.github.io/portfolio/](https://khyati12-cyber.github.io/portfolio/) |
 
 
 <hr>
